@@ -1,0 +1,28 @@
+<h1>Pie &amp; Donut Chart</h1>
+<p>Click anywhere on the charts to refresh the data using elastic.js.</p>
+  <hr>
+            
+    <div class="container-fluid">
+
+        <div class="row-fluid">
+            <div><strong>Pie &amp; Donut Chart with Angular &amp; d3 </strong></div>
+            <div class="span5" style="height:350px">
+                <fs:donut 
+                    outer-radius="200"
+                    inner-radius="75"
+                    duration="750"
+                    on-click="filterSearchA" 
+                    bind="results.facets.Product" />
+            </div>
+
+            <div class="span2" style="height:200px;">
+                <fs:pie 
+                    outer-radius="100"
+                    on-click="filterSearchA" 
+                    bind="results.facets.Sex" />
+            </div>
+        </div>
+</div>
+
+
+

@@ -1,0 +1,266 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"di",
+				"directives"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<!doctype html>\n<html lang=\"en\" ng-app=\"myApp\">\n<head>\n  <meta charset=\"utf-8\">\n  <title>My AngularJS App</title>\n  <link rel=\"stylesheet\" href=\"css/app.css\"/>\n</head>\n<body>\n  <ul class=\"menu\">\n    <li><a href=\"#/view1\">view1</a></li>\n    <li><a href=\"#/view2\">view2</a></li>\n  </ul>\n\n  <div ng-view></div>\n\n  <div>Angular seed app: v<span app-version></span></div>\n\n  <!-- In production use:\n  <script src=\"//ajax.googleapis.com/ajax/libs/angularjs/1.0.7/angular.min.js\"></script>\n  -->\n  <script src=\"lib/angular/angular.js\"></script>\n  <script src=\"lib/angular/angular-route.js\"></script>\n  <script src=\"js/app.js\"></script>\n  <script src=\"js/services.js\"></script>\n  <script src=\"js/controllers.js\"></script>\n  <script src=\"js/filters.js\"></script>\n  <script src=\"js/directives.js\"></script>\n</body>\n</html>\n",
+			"file": "index.html",
+			"file_size": 813,
+			"file_write_time": 130269020970000000,
+			"settings":
+			{
+				"buffer_size": 813,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Ruby/Ruby.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"AngularJS: Rebuild Search Index"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"rails generator",
+			"rails s"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/danorlando/Library/Application Support/Sublime Text 3/Packages/User/AngularJS-sublime-package.sublime-settings",
+		"/Users/danorlando/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/danorlando/Library/Application Support/Sublime Text 3/Packages/AngularJS/AngularJS-completions.sublime-settings",
+		"/Users/danorlando/Library/Application Support/Sublime Text 3/Packages/User/AngularJS-completions.sublime-settings",
+		"/Users/danorlando/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/danorlando/Library/Application Support/Sublime Text 3/Packages/AngularJS/AngularJS-sublime-package.sublime-settings",
+		"/opt/local/mongodb/mongodb.conf",
+		"/Users/danorlando/Sites/php_projects/speakup-email-petitions-master/includes/emailpetition.php",
+		"/Users/danorlando/Sites/rails_projects/second_app/Guardfile",
+		"/Users/danorlando/Sites/rails_projects/second_app/Gemfile",
+		"/Users/danorlando/Sites/rails_projects/demo_app/config/routes.rb",
+		"/Users/danorlando/Sites/rails_projects/demo_app/app/models/user.rb",
+		"/Users/danorlando/Sites/rails_projects/demo_app/app/models/micropost.rb",
+		"/Users/danorlando/Sites/rails_projects/demo_app/app/controllers/users_controller.rb",
+		"/Users/danorlando/Sites/rails_projects/first_app/config/routes.rb",
+		"/Users/danorlando/Sites/rails_projects/demo_app/.gitignore",
+		"/Users/danorlando/Sites/rails_projects/first_app/.gitignore",
+		"/Users/danorlando/Sites/rails_projects/first_app/config.ru",
+		"/Users/danorlando/Sites/rails_projects/demo_app/Gemfile",
+		"/Users/danorlando/Sites/rails_projects/first_app/Gemfile",
+		"/Users/danorlando/.gemrc",
+		"/Users/danorlando/Sites/rails_projects/tasks/spec/spec_helper.rb",
+		"/Users/danorlando/Sites/rails_projects/tasks/Gemfile",
+		"/Users/danorlando/Sites/rails_projects/tasks/app/views/tasks/index.html.erb",
+		"/Users/danorlando/Sites/rails_projects/tasks/app/controllers/tasks_controller.rb",
+		"/Users/danorlando/Sites/rails_projects/tasks/spec/requests/tasks_spec.rb"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 813,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								159,
+								159
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "angular-sublime-1.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
